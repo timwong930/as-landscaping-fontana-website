@@ -11,6 +11,7 @@
 - Keep the language direct and local instead of agency-style.
 - Use only public business details that are already visible online.
 - Avoid invented claims like years in business, reviews, licensing, or certifications.
+- Public photos were pulled from the business’s Facebook page and saved locally in `assets/photos/` so the homepage can show real images.
 
 ## What the page is designed to do
 - Make the business feel ready to show a customer today.
