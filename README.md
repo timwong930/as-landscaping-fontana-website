@@ -1,19 +1,22 @@
-# A&S Landscaping, Inc. website draft
+# A&S Landscaping, Inc. website mockup
 
 ## Business summary
 - Location: Fontana, Inland Empire, CA
 - Public website/profile: https://anslandscaping.com/
-- Service focus: Landscape maintenance, Residential service, Commercial service and related local work
+- Public Facebook presence: https://www.facebook.com/Aandslandscapingfb/
+- Public service focus: Family owned & operated landscape maintenance for residential and commercial properties
 
-## Why this is a good opportunity
-- A&S already has a public Facebook presence and a domain, but the current website behavior is essentially a placeholder. A proper site would let the business show work photos, list services clearly, and collect more quote requests.
-- Public presence is thin or generic compared with the service area.
-- There is room for a clearer local SEO structure, more trust signals, and a better mobile quote flow.
+## Copy decisions
+- Lead with the service people are looking for: landscape maintenance, cleanup, and property upkeep.
+- Keep the language direct and local instead of agency-style.
+- Use only public business details that are already visible online.
+- Avoid invented claims like years in business, reviews, licensing, or certifications.
 
-## Suggested outreach / redesign angle
-- Lead with a cleaner homepage, clearer service sections, and a stronger tap-to-call or quote path.
-- Add project photos, FAQs, service-area copy, and testimonials/reviews if available.
-- Keep the copy tightly focused on the jobs customers actually search for.
+## What the page is designed to do
+- Make the business feel ready to show a customer today.
+- Give a clean hero, clear services, service area, FAQ, and simple tap-to-call CTA.
+- Provide a better starting point for outreach and a real mockup presentation.
 
-## Starter site in this repo
-This repo includes a simple responsive static site with a tailored hero, services grid, service-area section, and contact CTA.
+## Notes
+- The live domain currently redirects to a parking/lander experience, so this repo is meant to present a cleaner customer-facing version of the copy.
+- The updated page copy is intentionally concise and practical so it reads naturally on mobile.
